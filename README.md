@@ -10,7 +10,7 @@
 Melearner777/Melearner777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 ---><h1 align="center">Hi 👋, I'm MD JISHAN</h1>
-<h1 align="center">Hi 👋, I'm MD JISHAN</h1>
+
 <h3 align="center">1st Year Computer Science Student</h3>
 <img align="right" alt="Coding" width="350" src="https://github.com/Melearner777/Melearner777/assets/152049778/d553cd9b-869c-4c56-8ba3-85bcdde98ccc">
 
