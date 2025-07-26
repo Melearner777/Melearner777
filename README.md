@@ -1,17 +1,16 @@
 - 👋 Hi, I’m @Melearner777
 - 👀 I’m interested in ...Cyber Security
-- 🌱 I’m currently learning ...JAVA,SQL
+- 🌱 I’m currently learning ...LINUX
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...HE/HIM
 - ⚡ Fun fact: ...
 
 <!---
-Melearner777/Melearner777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 ---><h1 align="center">Hi 👋, I'm MD JISHAN</h1>
 
-<h3 align="center">1st Year Computer Science Student</h3>
+<h3 align="center">CSE STUDENT</h3>
 <img align="right" alt="Coding" width="350" src="https://github.com/Melearner777/Melearner777/assets/152049778/d553cd9b-869c-4c56-8ba3-85bcdde98ccc">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melearner777&label=Profile%20views&color=0e75b6&style=flat" alt="melearner777" /> </p>
@@ -20,9 +19,6 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Student Performence Monitoring System**
-
-- 🌱 I’m currently learning JAVA &SQL **OOPS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Melearner777](https://github.com/Melearner777)
 
